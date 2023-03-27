@@ -1,0 +1,6 @@
+Type
+DC
+Ramp_up_time
+0.000000000000000000000000001
+Magnitude
+2
